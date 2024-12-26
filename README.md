@@ -23,6 +23,9 @@ Sistem ini digunakan untuk membaca suhu. Sistem ini menggunakan modul ESP8266 un
 | Sensor | DHT11 |
 | Other Components | LCD 16x2, Relay, Baterai, Jumper cable, Breadboard, & Casing  |
 
+## Skema Rangkaian
+<img src="https://github.com/ainnajib2002/Kipas-Angin-Otomatis-menggunakan-Sensor-Suhu-Berbasis-ESP32/blob/main/skematik_bb.png">
+
 ## Langkah - Langkah Penggunaan
 1. Instal modul ESP32, LCD dan modul DHT11.
 2. Hubungkan modul ESP32, LCD, relay dan modul DHT11 ke papan Arduino.
@@ -32,8 +35,4 @@ Sistem ini digunakan untuk membaca suhu. Sistem ini menggunakan modul ESP8266 un
 ## Arduino IDE
 ```bash
 https://www.arduino.cc/en/software
-```
-## Blynk
-```bash
-https://blynk.io/
 ```
