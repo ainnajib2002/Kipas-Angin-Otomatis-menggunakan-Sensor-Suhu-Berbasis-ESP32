@@ -10,7 +10,7 @@
 # Kipas-Angin-Otomatis-menggunakan-Sensor-Suhu-Berbasis-ESP32
 
 ## Kipas-Angin-Otomatis-menggunakan-Sensor-Suhu-Berbasis-ESP32
-Sistem ini digunakan untuk membaca suhu. Sistem ini menggunakan modul ESP8266 untuk menghubungkan ke jaringan Wi-Fi dengan modul HCSR04 duntuk membaca jarak. Data suhu akan menjadi output untuk menghidupkan kipas angin.
+Sistem ini digunakan untuk membaca suhu. Sistem ini menggunakan modul ESP32 sebagai mikrokontroler. Data suhu akan menjadi output untuk menghidupkan kipas angin.
 
 ## Alat dan Bahan
 | Media | Deskripsi |
